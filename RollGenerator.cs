@@ -1,4 +1,4 @@
-//Reece Williams Section 2
+//Reece Williams - Section 2
 using System;
 
 namespace Mission2Assignment
