@@ -1,4 +1,5 @@
-﻿using Mission2Assignment;
+﻿//Reece Williams Section 2
+using Mission2Assignment;
 
 // Welcome the user and ask for the number of rolls
 Console.WriteLine("Welcome to the dice throwing simulator!");

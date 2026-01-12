@@ -1,3 +1,4 @@
+//Reece Williams Section 2
 using System;
 
 namespace Mission2Assignment
@@ -6,7 +7,7 @@ namespace Mission2Assignment
     {
         public int[] SimulateRolls(int numberOfRolls)
         {
-            // Array to store counts for the totals
+            // Store counts for the totals in Array
             int[] results = new int[13];
             Random random = new Random();
 
