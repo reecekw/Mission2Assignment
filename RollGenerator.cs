@@ -13,9 +13,9 @@ namespace Mission2Assignment
             for (int i = 0; i < numberOfRolls; i++)
             {
                 // Roll two separate 6-sided dice
-                int die1 = random.Next(1, 7); 
-                int die2 = random.Next(1, 7);
-                int total = die1 + die2;
+                int d1 = random.Next(1, 7); 
+                int d2 = random.Next(1, 7);
+                int total = d1 + d2;
 
                 // Increment the count for that combination
                 results[total]++;
